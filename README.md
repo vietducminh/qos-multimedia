@@ -10,9 +10,9 @@ Main functionalities of the software:
 + Managing the join or leave of a new recipient without affecting the quality of existing sessions.
 
 Important files (components):
-+	mcomprocess{.h,.cc}, smfprocess{.h,.cc}
-+	ecnprocess{.h,.cc}
++	mcomprocess{.h,.cc}
 +	smfprocess{.h,.cc}
++	ecnprocess{.h,.cc}
 +	replyprocess{.h,.cc}
 +	cngenerator{.h,.cc}
 +	join_request_process{.h,.cc}
