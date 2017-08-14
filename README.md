@@ -18,3 +18,7 @@ Important files (components):
 +	join_request_process{.h,.cc}
 +	mcomstatistic{.h,.cc}
 +	probemeasurement{.h,.cc}
+
+Viet Thi Minh Do
+Norwegian University of Science and Technology
+Email: vietdtm83@gmail.com
