@@ -1,6 +1,6 @@
 // join_request_generator.cc
 
-/*	Viet Thi Minh Do 
+/*	Viet Thi Minh Do, Lars Landmark, Øivind Kure 
 *	Norwegian University of Science and Technology 
 */
 
